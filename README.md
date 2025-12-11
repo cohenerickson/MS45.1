@@ -30,6 +30,7 @@ Each tune is based off the previous in the following order, documentation is pro
 
 - [Base Tune](./base)
 - [457LO02S Firmware Update](./firmware)
+- [Immobilizer Delete](./immo)
 - [Speed Limiter Delete](./vslimiter)
 
 ## Future Goals
